@@ -14,6 +14,6 @@ Checking data formats and correcting them
 We notice that the date column has data type of integer we will convert it to datetime for ease in further analysis. Post this we perform a left join on both tables to merge them.
 A quick check on the data tells us that data is missing for 25th December 2018, this could be because stores are closed for Christmas.
 
-
+![image](https://user-images.githubusercontent.com/20701694/103164569-31be0200-4833-11eb-9b16-d6a4e87fc0de.png)
 
 
